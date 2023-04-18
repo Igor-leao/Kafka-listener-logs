@@ -1,4 +1,7 @@
-package com.igor.strproducer;
+
+
+
+'1'package com.igor.strproducer;
 
 import org.springframework.boot.SpringApplication;
 import org.springframework.boot.autoconfigure.SpringBootApplication;
